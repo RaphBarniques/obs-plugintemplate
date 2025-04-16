@@ -33,13 +33,11 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.plugintemplate-for-obs"
+            "bundleId": "com.kentcshit.obs-auto-trimmer"
         }
     },
-    "name": "plugintemplate-for-obs",
-    "displayName": "Plugin Template for OBS",
-    "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com"
+    "name": "obs-auto-trimmer",
+    "displayName": "Auto-Trim OBS Plugin",
+    "version": "0.1.0",
+    "author": "Kent C. Shit"
 }
